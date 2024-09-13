@@ -7,7 +7,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/williamnova_k/)
 
 ## About me
-- 💼 I'm currently working with Oracle Apex.
+- 💼 I'm currently working with Oracle Apex, Python and Javascript.
 
 - 📚 Information Technology graduated at IFSUL and studying Systems Analysis and Development at PUCRS.
 
